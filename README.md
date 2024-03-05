@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eXeis-ixt
 - 👀 I’m interested in web development and creating A.I
-- 🌱 I’m currently learning M.E.R.N
+- 🌱 I’m currently learning M.E.R.N and TALL stack
 - 📫 How to reach me mjlickerlim56789@gmail.com
 
 <!---
